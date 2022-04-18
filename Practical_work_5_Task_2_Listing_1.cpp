@@ -1,10 +1,10 @@
 ﻿// Practical_work_5_Task_2_Listing_1.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
 
-#include <iostream>
-#include <conio.h>
+#include <iostream>  // Заголовочный файл с классами, функциями и переменными для организации ввода-вывода
+#include <conio.h>   // Заголовочный файл, консольный ввод-вывод
 
-using namespace std;
+using namespace std; // использование пространство имён
 
 long double S(double a1, double b1, double a2, double b2, double a3, double b3)
 {
